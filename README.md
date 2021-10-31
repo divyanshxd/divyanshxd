@@ -20,6 +20,9 @@ I'm Divayansh Verma a learning Developer. I Spend most of time coding outstandin
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
