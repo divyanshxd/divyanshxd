@@ -4,7 +4,7 @@ I'm Divayansh Verma a learning Developer. I Spend most of time coding outstandin
 
  📫 Reach me out!
 
-[![Discord Badge](https://img.shields.io/discord/808424540177825875?label=discord&style=for-the-badge&link)](https://discord.gg/xc9vZcDaK9) [![Mail Badge](https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/divyanshxd) [![Mail Badge](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:7divyansh@protonmail.com)
+[![Discord Badge](https://img.shields.io/discord/808424540177825875?label=discord&style=for-the-badge&link)](https://discord.gg/xc9vZcDaK9) [![Mail Badge](https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/divyanshv_) [![Mail Badge](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:7divyansh@protonmail.com)
 
 
 - 🔭 I’m currently working at [discord music bot beat](https://discord.com/api/oauth2/authorize?client_id=806899130977746963&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FA8DMTeAsNc&response_type=code&scope=guilds.join%20bot%20applications.commands).
