@@ -21,8 +21,8 @@ I'm Divayansh Verma a learning Developer. I Spend most of time coding outstandin
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 57 mins    ███████████████████▒░░░░░   77.57 % 
-JSON         34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
+JavaScript   1 hr 33 mins    ███████████████████▓░░░░░   78.77 % 
+JSON         25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
 ```
 <!--END_SECTION:waka-->
 
