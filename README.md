@@ -21,8 +21,8 @@ I'm Divayansh Verma. I Spend most of time coding outstanding projects.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 14 mins   ██████████████████████░░░   87.95 % 
-JSON         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JavaScript   1 hr 18 mins    ██████████████████████░░░   88.45 % 
+JSON         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 <!--END_SECTION:waka-->
 
