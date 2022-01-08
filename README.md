@@ -9,7 +9,7 @@ I'm Divayansh Verma. **noob :)**
 
 - 🔭 I’m currently working at discord music bot [beat](https://discord.com/api/oauth2/authorize?client_id=806899130977746963&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FA8DMTeAsNc&response_type=code&scope=guilds.join%20bot%20applications.commands).
 - 📫 How to reach me: 7divyansh@protonmail.com.
-- ⚡ Fun fact: I play games.
+- ⚡ I play games.
 -  I am in love with coding Discord Bots and I also love helping!.
 
 #### Profile Visits 
