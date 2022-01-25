@@ -21,8 +21,7 @@ I'm Divayansh Verma. **noob :)**
 
 <!--START_SECTION:waka-->
 ```text
-JSON         28 mins         ████████████████░░░░░░░░░   63.70 % 
-JavaScript   16 mins         █████████░░░░░░░░░░░░░░░░   36.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
