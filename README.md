@@ -10,7 +10,7 @@
 
 - Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxd&theme=discord_old_blurple)](https://github.com/divyanshxd)
 
 
 - Github Stats :D
