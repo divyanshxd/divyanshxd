@@ -16,7 +16,7 @@
 - Github Stats :D
 
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=tokyonight&hide=contribs,prs)
+![divyanshxd's github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=tokyonight&hide=contribs,prs)
 
  📫 Reach me out!
 
