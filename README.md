@@ -1,22 +1,19 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-
-
+## Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
-
 - Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxd&theme=discord_old_blurple)](https://github.com/divyanshxd)
 
-
 - Github Stats :D
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![divyanshxd's github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=tokyonight&hide=contribs,prs)
+- Wakatime Stats
+
 
  📫 Reach me out!
 
