@@ -4,15 +4,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
-- Top Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxd&theme=discord_old_blurple)](https://github.com/divyanshxd)
 
-- Github Stats
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-- Wakatime Stats
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshxd&theme=discord_old_blurple)](https://github.com/divyanshxd)
 
