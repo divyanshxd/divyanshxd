@@ -2,7 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=divyanshxd&show_icons=truecount_private=true&theme=discord_old_blurple&hide=contribs,prs)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=divyanshxd&show_icons=truecount_private=true&theme=discord_old_blurple)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=discord_old_blurple&hide=contribs,prs)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshxD&theme=discord_old_blurple)](https://github.com/divyanshxd)
