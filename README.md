@@ -4,12 +4,6 @@
 
 ![discord](https://discord.c99.nl/widget/theme-3/774966001384292362.png)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=divyanshxd&show_icons=truecount_private=true&theme=discord_old_blurple)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&count_private=true&theme=discord_old_blurple&hide=contribs,prs)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=divyanshxD&theme=discord_old_blurple)](https://github.com/divyanshxd)
-
  📫 Reach me out!
 
 [![Discord Badge](https://img.shields.io:/discord/808424540177825875)](https://discord.gg/xc9vZcDaK9) [![Mail Badge](https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/divyanshv_) [![Mail Badge](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:7divyansh@protonmail.com)
