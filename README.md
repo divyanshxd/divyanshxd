@@ -6,7 +6,7 @@
 
  📫 Reach me out!
 
-[![Discord Badge](https://img.shields.io:/discord/808424540177825875)](https://discord.gg/xc9vZcDaK9) [![Mail Badge](https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/divyanshv_) [![Mail Badge](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:7divyansh@protonmail.com)
+[![Discord Badge](https://img.shields.io:/discord/808424540177825875)](https://discord.gg/gjDymvVmR8) [![Mail Badge](https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/divyanshv_) [![Mail Badge](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:7divyansh@protonmail.com)
 
 - 📫 Mail: 7divyansh@protonmail.com.
 
