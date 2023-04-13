@@ -1,7 +1,7 @@
 # Hey there i'm divyansh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="im divyansh">
 
 ###### 💫 About Me:
-- A passionate self-taught Full Stack web developer and a freelancer from India.
+- A passionate self-taught developer and a freelancer from India.
 - I'm a creative problem solving enthusiast, with a constantly growing love for programming.
 - I'm currently working on a few projects, and learning more about web development.
 - Looking to collaborate on any interesting projects. 
