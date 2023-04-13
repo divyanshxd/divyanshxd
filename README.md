@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
+[![divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshxd)
+
 ![discord](https://discord.c99.nl/widget/theme-3/774966001384292362.png)
 
  📫 Reach me out!
