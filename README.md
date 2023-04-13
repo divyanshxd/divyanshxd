@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
-![divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&theme=dracula)
+![divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&theme=dracula) ![divyansh's wakatime stats}(https://wakatime.com/share/@divyanshxD/37f66e45-3f63-4005-be67-d8884df28f56.png)) 
 
 ![discord](https://discord.c99.nl/widget/theme-3/774966001384292362.png)
 
