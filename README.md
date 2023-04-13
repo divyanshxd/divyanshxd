@@ -15,5 +15,6 @@
 
 - 📫 Mail: 7divyansh@protonmail.com.
 
-##📊 Stats 
+## 📊 Stats
+ 
 ![divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&theme=dracula) [![wakatime](https://wakatime.com/badge/user/dddfed3d-9ed0-4806-a754-64dbb3a494ba.svg)](https://wakatime.com/@dddfed3d-9ed0-4806-a754-64dbb3a494ba) 
