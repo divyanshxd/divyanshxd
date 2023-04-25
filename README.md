@@ -4,8 +4,6 @@
 - A passionate self-taught developer and a freelancer from India.
 - I'm a creative problem solving enthusiast, with a constantly growing love for programming.
 - I'm currently working on a few projects, and learning more about web development.
-- Looking to collaborate on any interesting projects. 
-- Ask me about anything, I am happy to help. 
 
 ![discord](https://discord.c99.nl/widget/theme-3/774966001384292362.png) ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
