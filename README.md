@@ -2,7 +2,7 @@
 
 ###### 💫 About Me: A passionate self-taught developer and a freelancer from India.
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/774966001384292362?theme=light&idleMessage=i%27m%20sleeping%20with%20my%20PC%20on)](https://discord.com/users/774966001384292362)
+[![Discord Presence](https://lanyard.cnrad.dev/api/774966001384292362?idleMessage=i%27m%20sleeping%20with%20my%20PC%20on)](https://discord.com/users/774966001384292362)
 
 ![discord](https://discord.c99.nl/widget/theme-3/774966001384292362.png) ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshxd.divyanshxd)
 
