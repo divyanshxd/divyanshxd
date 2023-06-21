@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x1divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x1divyansh" height="30" width="40" /></a>
-<a href="https://instagram.com/divyanshv_" target="blank"><img align="center" src="https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="divyanshv_" height="30" width="40" /></a>
-<a href="https://discord.gg/ss5HmgRxy7" target="blank"><img align="center" src="https://img.shields.io:/discord/808424540177825875" alt="ss5HmgRxy7" height="30" width="40" /></a>
-<a href="mailto:7divyansh@protonmail.com" target="blank"><img align="center" src="[https://img.shields.io:/discord/808424540177825875](https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)" alt="ss5HmgRxy7" height="30" width="40" /></a>
+<a href="https://twitter.com/x1divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></a>
+<a href="https://instagram.com/divyanshv_" target="blank"><img align="center" src="https://img.shields.io/badge/-@divyanshv_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/ss5HmgRxy7" target="blank"><img align="center" src="https://img.shields.io:/discord/808424540177825875"></a>
+<a href="mailto:7divyansh@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
