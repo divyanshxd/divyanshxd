@@ -20,7 +20,7 @@
 
 ## 📊 Stats
 
-<figure><embed src="https://wakatime.com/share/@divyanshxD/fbca0364-4ca6-49ec-8159-da1bf238d695.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@divyanshxD/fbca0364-4ca6-49ec-8159-da1bf238d695.svg"></embed>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en" alt="divyanshxd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&" alt="divyanshxd" /></p>
 [![wakatime](https://wakatime.com/badge/user/dddfed3d-9ed0-4806-a754-64dbb3a494ba.svg)](https://wakatime.com/@dddfed3d-9ed0-4806-a754-64dbb3a494ba) 
