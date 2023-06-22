@@ -20,8 +20,8 @@
 
 ## 📊 Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=shadow_blue">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=shadow_blue&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=transparent&count_private=true">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@divyanshxD&langs_count=10&theme=shadow_blue">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@divyanshxD&langs_count=10&theme=transparent">
 </div>
