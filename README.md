@@ -23,5 +23,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=transparent&count_private=true">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@divyanshxD&langs_count=10&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@divyanshxD&langs_count=10&theme=transparent&hide_title=true">
 </div>
