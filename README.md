@@ -20,7 +20,7 @@
 
 ## 📊 Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&theme=shadow_blue&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=shadow_blue&count_private=true">
 <br>
 <img src="https://wakatime.com/share/@divyanshxD/fbca0364-4ca6-49ec-8159-da1bf238d695.svg">
