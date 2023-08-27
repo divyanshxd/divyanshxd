@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Hello, World!</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
+
 <h1 align="center">Hi 👋, I'm divyansh</h1>
 <p1>im currenly 16 years old, lives in india. wrote my first code when i was 12</p1><br>
 <p1>I own a Discord bot  <a href="https://top.gg/bots/972795104525975622">Teal Music</a> which is in 45K+ servers</p1>
@@ -28,5 +22,3 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@divyanshxD&langs_count=10&theme=transparent&hide_title=true">
 </div>
 
-  </body>
-</html>
