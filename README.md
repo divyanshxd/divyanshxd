@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools i have learned:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr)](https://7divyansh.me)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr)](https://skillicons.dev)
 
 ## 📊 Stats
 <div align="center">
