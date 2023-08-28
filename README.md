@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools i have learned:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr)](https://7divyansh.me)
+
 ## 📊 Stats
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
