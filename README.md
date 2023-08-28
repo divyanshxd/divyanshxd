@@ -12,8 +12,8 @@
 <a href="mailto:7divyansh@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-divyansh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-
+<h3 align="left">Languages and Tools i have learned:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr)](https://7divyansh.me)
 ## 📊 Stats
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
