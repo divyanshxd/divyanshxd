@@ -13,7 +13,6 @@
 </p>
 
 <h3 align="left">Languages and Tools i have learned:</h3>
-[My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr)
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,nuxtjs,vue,prisma,mongodb,mysql,postgres,redis,docker,grafana,git,deno,firebase,figma,ae,blender,ps,pr">
 ## 📊 Stats
 <div align="center">
