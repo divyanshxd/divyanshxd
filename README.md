@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm divyansh</h1>
 <p1>im currenly 16 years old, lives in india. wrote my first code when i was 12</p1><br>
-<p1>I own a Discord bot  <a href="https://top.gg/bot/972795104525975622">Teal Music</a> which is in 75K+ servers</p1>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
