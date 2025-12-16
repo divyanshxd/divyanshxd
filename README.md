@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm divyansh</h1>
-<p1>im currenly 17 years old, lives in india. wrote my first code when i was 12</p1><br>
+<p1>im currenly 18 years old, lives in india. wrote my first code when i was 12</p1><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools i have learned:</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,prisma,mongodb,mysql,postgres,redis,grafana,git,firebase,">
-## 📊 Stats
+# 📊 Stats
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=transparent&count_private=true">
