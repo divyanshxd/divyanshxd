@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools i have learned:</h3>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,prisma,mongodb,mysql,postgres,redis,grafana,git,firebase,">
-# 📊 Stats
+<h3 align="left"># Stats</h3>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxd&count_private=true&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshxd&show_icons=true&locale=en&theme=transparent&count_private=true">
